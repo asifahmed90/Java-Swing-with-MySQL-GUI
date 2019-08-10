@@ -5,5 +5,9 @@ a.	Initially the classes performed database access from a server and retrieve th
 b.	A class is created that holds the methods to perform numerous data and statistical analysis. The class needs instance variables for the data (input) as well as for the generated results (output). The analysis included the average (mean), variance, standard deviation, minimum, maximum, and range of values in the data array.
 c.	The result is connected with the front end swing GUI and will display the result for the first row when the calculate button is clicked.
 
-##Output
+## Output
+
+### Before Clicking the Calculate Button
+
+![image](https://user-images.githubusercontent.com/45178199/62824279-14669600-bb61-11e9-9053-62008fc7ce9b.png)
 
