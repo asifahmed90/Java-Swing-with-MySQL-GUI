@@ -9,5 +9,6 @@ c.	The result is connected with the front end swing GUI and will display the res
 
 ### Before Clicking the Calculate Button
 
-![image](https://user-images.githubusercontent.com/45178199/62824279-14669600-bb61-11e9-9053-62008fc7ce9b.png)
+![image](https://user-images.githubusercontent.com/45178199/62824294-5ee81280-bb61-11e9-9972-58912abb2efa.png)
+
 
