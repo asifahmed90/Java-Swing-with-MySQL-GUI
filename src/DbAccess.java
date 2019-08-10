@@ -36,7 +36,7 @@ public class DbAccess extends JFrame {
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            Connection con = DriverManager.getConnection("jdbc:mysql://131.193.209.69:3306/f17x321", "f17x321", "f17x321TS");
+            Connection con = DriverManager.getConnection("jdbc:mysql://191.00.00.00/user", "user", "pass");
             PreparedStatement pstm = con.prepareStatement("SELECT * FROM f17x321.energy");
             ResultSet rs = pstm.executeQuery();
 
