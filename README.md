@@ -1,5 +1,7 @@
 # Java-Swing-with-MySQL-GUI
-Simple GUI application with Swing in the front end to show statistical analysis by retrieving data from MySQL. The steps are as follows:
+Simple GUI application with Swing in the front end to show statistical analysis by retrieving data from MySQL. 
+
+#### The steps are as follows:
 
 i.	Initially the classes performed database access from a server and retrieve the data. A simple swing GUI has been created to display the table from the MySQL database. In other words, they can perform console based UI with database access or GUI UI with file access to data.
 
@@ -15,5 +17,8 @@ iii.	The result is connected with the front end swing GUI and will display the r
 
 
 #### After Clicking the Calculate Button
+
+![image](https://user-images.githubusercontent.com/45178199/62824317-9fe02700-bb61-11e9-8b75-5629ecdc7971.png)
+
 
 
